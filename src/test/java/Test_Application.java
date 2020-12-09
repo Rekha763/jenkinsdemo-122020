@@ -21,4 +21,9 @@ public void test1(){
             System.out.println("Running test 4");
 
         }
+    @Test
+    public void test5(){
+        System.out.println("Running test 5");
+    }
+
     }
